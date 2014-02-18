@@ -32,6 +32,8 @@ Select episode and enter the `<ENTER>`:
 
 Episode you have selected will play in the **AppleTV using AirPlay** .
 
+<iframe src="//player.vimeo.com/video/86989985" width="500" height="472" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/86989985">emacs-rebuildfm</a> from <a href="http://vimeo.com/user11629023">gongo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 Stop play episode:
 
 ```
